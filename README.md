@@ -1,0 +1,5 @@
+# consul-keygen
+
+## License
+
+**MIT**
