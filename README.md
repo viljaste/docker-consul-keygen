@@ -1,4 +1,4 @@
-# consul-keygen
+# docker-consul-keygen
 
 ## License
 
